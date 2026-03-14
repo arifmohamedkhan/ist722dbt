@@ -4,7 +4,7 @@ config-version: 2
 
 profile: 'default'
 
-model-paths: ["."]
+model-paths: ["models"]
 seed-paths: ["seeds"]
 snapshot-paths: ["snapshots"]
 analysis-paths: ["analysis"]
